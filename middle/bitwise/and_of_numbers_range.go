@@ -1,7 +1,7 @@
 package bitwise
 
 func rangeBitWiseNumber(a,b int) int {
-
+	return one(a,b)
 }
 
 // 通过取得 a 和 b 的最高有效位来判断
